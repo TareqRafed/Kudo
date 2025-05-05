@@ -50,7 +50,7 @@
     "react-simple-wysiwyg": "^3.2.0",
     "resend": "^4.1.1",
     "rtl-detect": "^1.1.2",
-    "sharp": "^0.33.5",
+    "sharp": "^0.34.1",
     "stripe": "^17.7.0",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
